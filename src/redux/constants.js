@@ -1,0 +1,7 @@
+export const HOME = {
+  GET_APP_NAME: 'HOME_GET_APP_NAME',
+}
+
+export const COUNTER = {
+  UPDATE_COUNTER: 'COUNTER_UPDATE_COUNTER',
+}
